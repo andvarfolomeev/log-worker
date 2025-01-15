@@ -1,0 +1,8 @@
+name = "log-worker"
+main = "src/index.ts"
+compatibility_date = "2025-01-15"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "log-worker-d1"
+database_id = "23c6952a-d8ec-43f9-bd20-f89435402be6"
